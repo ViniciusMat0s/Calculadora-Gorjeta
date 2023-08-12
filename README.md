@@ -2,7 +2,7 @@
 ## Projeto desenvolvido através da Imersão Projeto Web do Zero, da OneBitCode
 
 ### O que usei?
-<br>
+
 ### · HTML
 ### · CSS
 ### · JavaScript
