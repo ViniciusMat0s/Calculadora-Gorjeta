@@ -1,5 +1,6 @@
 # Calculadora de Gorjeta
-## Projeto desenvolvido através da Imersão Projeto Web do Zero, da OneBitCode
+### Projeto desenvolvido na primeira imersão que participei, na OneBitCode.
+#### Curso/Cadeira: Imersão Projeto Web do Zero - OneBitCode
 
 ### O que usei?
 
